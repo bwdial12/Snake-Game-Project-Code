@@ -1,4 +1,3 @@
-
 // 8-digit multiplexed 7-segment display driver
 // val[31:28] = leftmost digit, val[3:0] = rightmost
 module seg7_driver (
