@@ -1,4 +1,3 @@
-
 // N=20 gives ~10ms debounce at 100MHz (2^20 cycles)
 module debounce #(parameter N = 20) (
     input  clk,
