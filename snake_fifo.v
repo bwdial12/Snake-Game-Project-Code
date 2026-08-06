@@ -1,4 +1,3 @@
-
 `include "defines.vh"
 
 // shift-register FIFO for snake body
