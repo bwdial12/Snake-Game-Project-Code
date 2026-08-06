@@ -1,4 +1,3 @@
-
 `include "defines.vh"
 `timescale 1ns/1ps
 
