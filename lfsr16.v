@@ -1,4 +1,3 @@
-
 // maximal-length 16-bit LFSR
 // feedback taps at bits 0, 3, 9, 14 -- gate-level XOR chain
 module lfsr16 (
