@@ -1,4 +1,3 @@
-
 `include "defines.vh"
 
 // top-level game logic: FSM, direction control, food, score, UART events
