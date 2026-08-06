@@ -1,4 +1,3 @@
-
 module edge_detect (
     input  clk,
     input  sig,
